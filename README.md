@@ -5,6 +5,8 @@ Clone of yesstyle e commerce website. Front-End is made with HTML,CSS and EJS fi
 
 ![yesstyle](https://user-images.githubusercontent.com/95960219/159853419-c46b8c03-c79c-41a6-b25b-b1e2349bd782.png)
 
+![Screenshot (145)](https://user-images.githubusercontent.com/95960219/160222543-e5cc7fe1-1a15-4e9a-bb29-dd83672fc9f0.png)
+
 
 
 
